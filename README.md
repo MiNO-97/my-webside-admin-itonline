@@ -30,8 +30,8 @@
 
 1. **Clone ຫຼື Download ໂປຣເຈັກ**
    ```bash
-   git clone https://github.com/yourusername/pos-it-online.git
-   cd pos-it-online
+   git clone https://github.com/MiNO-97/my-webside-admin-itonline.git
+   cd my-webside-admin-itonline
    ```
 
 2. **ຕັ້ງຄ່າ Database**
